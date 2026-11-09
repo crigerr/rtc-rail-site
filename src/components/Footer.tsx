@@ -110,7 +110,7 @@ export function Footer() {
             </a>
             <p className="mt-5 flex items-start gap-3 text-sm leading-relaxed text-white/45">
               <MapPin className="mt-0.5 h-4 w-4 shrink-0" aria-hidden="true" />
-              Санкт-Петербург, наб. Обводного Канала, д. 93а
+              Санкт-Петербург, вн.тер.г. муниципальный округ Измайловское, наб. реки Фонтанки, д. 120 литер а, помещ. 4-н, офис 12
             </p>
           </div>
         </div>
